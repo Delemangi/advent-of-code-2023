@@ -1,0 +1,13 @@
+{
+  "name": "advent-of-code-2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Delemangi",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.10.2"
+  }
+}
