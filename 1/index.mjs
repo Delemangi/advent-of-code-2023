@@ -1,6 +1,6 @@
 import { readFile } from 'node:fs/promises';
 
-const inputFilePath = './1/trebuchet/input.txt';
+const inputFilePath = './1/input.txt';
 const data = await readFile(inputFilePath, { encoding: 'utf-8' });
 
 const numberLabels = {
